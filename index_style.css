@@ -1,0 +1,421 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    color: #686868;
+   
+}
+.clr
+{
+    clear: both;
+}
+.background{
+    background-color: rgba(0,0,0,0.7);
+    width: 100%;
+    height: 100%;
+}
+.nav{
+   
+    overflow: auto;
+    padding-top: 20px;
+}
+.nav ul{
+    list-style-type: none;
+    margin-right: 70px;
+    
+}
+.nav ul li{
+    float: left;
+     padding: 5px 15px;
+    padding-top: 12px;
+   
+   font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.nav .cont{
+    float: right;
+}
+.nav ul li a{
+      color: #fff;
+    text-decoration:none;
+
+}
+.nav .contact {
+    background-color: white;
+    height: 22px;
+    border-radius: 2px;
+    
+}
+.nav .contact a{
+   color: #444444; 
+}
+.nav .logo{
+    float: left;
+    margin-top: 0;
+    margin-left: 50px;
+    
+}
+.logo img
+{
+    width: 136px;
+    height: 36px;
+}
+.logo a{
+    color: white;
+}
+.home{
+    width: 100%;
+    height: 887px;
+    background-image: url(img/business-2.jpg);
+    background-size: 100% 100%;
+     text-align: center;
+}
+.home p{
+    padding-top: 240px;
+    font-size: 20px;
+    line-height: 1.3em;
+}
+.home h1{
+   
+    font-size: 50px;
+    width:75%;
+    margin: auto;
+    padding-top: 30px;
+    line-height: 1.3em;
+    text-align: center;
+}
+.home p,h1{
+    color: white;
+   
+    
+}
+.btn{
+    background-color: #4caf50;
+    border:0;
+    border-radius: 4px;
+    height: 50px;
+    width:150px;
+    margin-top: 41px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    
+    
+}
+.sec2{
+    
+    padding: 100px 0px 130px 55px;
+    overflow: auto;
+    
+
+  
+ 
+   
+}
+.sec2 .content{
+    width:30%;
+    float: left;
+    
+    
+}
+.sec2 .content span{
+    font-size:20px;
+ 
+    float:left;
+    margin-top: 8px;
+    margin-left: 20px;
+    color: #303030;
+   
+}
+.sec2 .content img{
+   
+     float:left;
+   
+}
+
+.sec2 .content p{
+   
+    margin-top: 5px;
+    margin-left: 65px;
+    line-height: 1.5;
+    color: #888;
+    font-size: 20px;
+    
+}
+.sec3{
+   background-color: #f8f8f8;
+    overflow: auto;
+    padding: 90px 0px;
+}
+ .caption{                                                 /*sec3,sec8*/
+    text-align: center;                       
+    margin-bottom: 50px;
+}
+ .caption h3{
+    font-size: 40px;
+    margin-bottom: 20px;
+      color: #303030;
+    font-weight: normal;
+}
+ .caption p{
+    font-size: 20px;
+     color: #888;
+}
+.sec3 .content{
+    margin:auto;
+     overflow: auto;
+    
+    width: 90%;
+}
+.post
+{
+    float: left;
+    width: 31%;
+    margin: 0 1%;
+}
+.post img{
+    width: 100%;
+}
+
+.post .sub{
+    background-color: white;
+    padding: 40px 20px;
+}
+ .post .sub h6{
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: normal;
+      color: #303030;
+}
+ .post .sub p{
+    line-height: 1.5;
+    color: #888;
+     font-size: 20px;
+}                                                  /*sec3,sec8*/
+.sec3 .post .sub a
+{
+    display: block;
+    margin-top: 6px;
+    text-decoration: none;
+}
+.sec4 .block{
+    float: left;
+    width: 43%;
+   margin: 100px 30px;
+}
+.sec4 ul{
+    list-style-type: armenian;
+     margin-left: 20px;
+    margin-top: 30px;
+}
+.sec4 ul li{
+    padding: 8px 0px;
+    color: #888;
+}
+.sec4 .content2{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.sec4 h3{
+    
+     margin:50px 50px 30px 0;
+    font-size: 35px;
+      font-weight: normal;
+      color: #303030;
+    
+}
+.sec4 p{
+    line-height: 1.5;
+    color: #888;
+}
+.sec4 img{
+    display: block;
+    width: 100%;
+}
+.sec4{
+  
+    overflow: auto;
+}
+.sec5{
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 70px 0px;
+   
+}
+.sec5 .b2_5 {
+    overflow: auto;
+    text-align: left;
+     margin: auto;
+   width: 90%;
+   
+}  
+.sec5 .b2_5_content{
+    width: 31%;
+    float: left;
+  margin: 1.1%;
+  
+}
+.sec5 .b2_5_content p{
+    background-color: white;
+    padding: 20px;
+      line-height: 1.5;
+    font-size: 18px;
+     color: #888;
+}
+.sec5 .b2_5_content h6,.sec5 .b2_5_content span{
+    margin: 20px 25px 10px 25px;
+}
+.sec5 .b2_5_content h6{
+    font-size: 15px;
+}
+.sec5 .b2_5_content span{
+    font-size: 14px;
+     color: #888;
+    
+}
+.sec6 {
+    overflow: auto;
+    width: 90%;
+    margin: auto;
+    padding: 70px 0px;
+
+}
+.sec6 .b6_content{
+ 
+    float: left;
+    margin-left: 35px;
+    width: 22%;
+}
+.sec7{
+    background-image: url(img/download.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+  
+  
+
+    height: 500px;
+}
+.sec7 p,.sec7 h2{
+        color: white;
+ 
+}
+.sec7 p{
+    width: 55%;
+      margin: auto;
+       font-size: 20px;
+    line-height: 1.5;
+}
+.sec7 h2{
+      font-size: 35px;
+    margin-bottom: 20px;
+    padding-top: 160px;
+    font-weight: normal;
+}
+.sec7 .background{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+}
+.sec8 {
+    padding: 80px 0px;
+      overflow: auto;
+}
+
+.sec9 {
+  
+    background-color: #f8f8f8;
+
+}
+
+.sec9  .container{
+       width: 90%;
+    margin: auto;
+    padding: 70px 0px;
+    overflow: auto;
+ 
+}
+
+.sec9 .b9_content{
+ 
+    float: left;
+    margin-left: 70px;
+    width: 13%;
+    
+}
+.sec9  .container .b9_content img{
+    width: 100%;
+  vertical-align: middle;
+
+}
+.sec10{
+    background-color: #4caf50;
+    padding: 40px 0px;
+    overflow: auto;
+}
+.sec10 .b10_1{
+    float: left;
+   margin:36px 60px 0px;
+    
+}
+
+
+
+
+.sec10 .b10_1 p{
+     color: rgba(255,255,255,.82); 
+    font-size: 20px;
+    margin-top: 5px;
+}
+.sec10 .b10_1 h2{
+     color:white; 
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.sec10 .b10_2 {
+    float: right;
+    margin-right: 120px;
+  
+    
+}
+
+
+.sec10 .b10_2 button{
+    color: black;
+    background-color: white;
+    height: 60px;
+
+}
+.sec11{
+    background-color: #1f2021;
+    overflow: auto;
+    padding: 30px 0;
+}
+.sec11 .b11_1 {
+    float: left;
+    width: 22%;
+    margin-left: 32px;
+    line-height: 2;
+}
+.sec11 .b11_1 h2{
+    color: white;
+    margin-bottom: 20px;
+        
+}
+.sec11 .b11_1 p{
+    line-height: 1.5;
+}
+
+.sec12{
+    overflow: auto;
+    background-color:#1b1b1b;
+    padding: 20px 40px 0px ;
+}
+.sec12 .b12_1 {
+    float: left;
+    margin-top: 5px;
+}
+.sec12 .b12_2{
+    float: right;
+}
